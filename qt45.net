@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\Ben\Documents\KiCad\Projects\qt45\qt45.sch)
-    (date "27/03/2019 12:28:23")
+    (date "27/03/2019 12:57:13")
     (tool "Eeschema (6.0.0-rc1-dev-1672-g5c3f6f2ab)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
