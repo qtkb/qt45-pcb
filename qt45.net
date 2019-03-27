@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\Ben\Documents\KiCad\Projects\qt45\qt45.sch)
-    (date "26/03/2019 23:50:47")
+    (date "27/03/2019 00:01:25")
     (tool "Eeschema (6.0.0-rc1-dev-1672-g5c3f6f2ab)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -674,7 +674,7 @@
       (tstamp 5CA86F72))
     (comp (ref MX23)
       (value MX-6.25U)
-      (footprint MX_Alps_Hybrid:MXOnly-6.25U-NoLED)
+      (footprint MX_Alps_Hybrid:MXOnly-6.25U-ReversedStabilizers-NoLED)
       (libsource (lib MX_Alps_Hybrids) (part MX-6.25U) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5CA8EADA))

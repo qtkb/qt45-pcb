@@ -467,10 +467,10 @@ F 3 "" H 6600 3425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D3
+L Device:D_Small D4
 U 1 1 5C9F1A36
 P 6500 3725
-F 0 "D3" H 6500 3875 50  0000 R CNN
+F 0 "D4" H 6500 3875 50  0000 R CNN
 F 1 "SOD-123" H 6900 3875 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6500 3725 50  0001 C CNN
 F 3 "~" V 6500 3725 50  0001 C CNN
@@ -504,10 +504,10 @@ F 3 "" H 6600 4175 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D4
+L Device:D_Small D5
 U 1 1 5C9F3E7F
 P 6500 4475
-F 0 "D4" H 6500 4625 50  0000 R CNN
+F 0 "D5" H 6500 4625 50  0000 R CNN
 F 1 "SOD-123" H 6900 4625 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6500 4475 50  0001 C CNN
 F 3 "~" V 6500 4475 50  0001 C CNN
@@ -933,10 +933,10 @@ COL12
 Text GLabel 15800 2925 1    50   Input ~ 0
 COL13
 $Comp
-L Device:D_Small D5
+L Device:D_Small D3
 U 1 1 5C9E3060
 P 5750 5225
-F 0 "D5" H 5750 5375 50  0000 R CNN
+F 0 "D3" H 5750 5375 50  0000 R CNN
 F 1 "SOD-123" H 6150 5375 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5750 5225 50  0001 C CNN
 F 3 "~" V 5750 5225 50  0001 C CNN
