@@ -1696,8 +1696,6 @@ $EndComp
 Wire Wire Line
 	13250 5875 13350 5875
 Wire Wire Line
-	13250 6075 10250 6075
-Wire Wire Line
 	13550 5675 13550 4925
 $Comp
 L MX_Alps_Hybrids:MX-1U MX40
@@ -1725,8 +1723,6 @@ Wire Wire Line
 	14000 5875 14100 5875
 Wire Wire Line
 	14000 6075 13250 6075
-Connection ~ 10250 6075
-Connection ~ 13250 6075
 $Comp
 L MX_Alps_Hybrids:MX-1.25U MX36
 U 1 1 5CAB0986
@@ -1816,4 +1812,9 @@ F 3 "" H 14850 4925 60  0001 C CNN
 	1    14875 4950
 	1    0    0    -1  
 $EndComp
+Text GLabel 12500 6075 0    50   Input ~ 0
+ROW4
+Wire Wire Line
+	13250 6075 12500 6075
+Connection ~ 13250 6075
 $EndSCHEMATC
