@@ -1667,8 +1667,6 @@ $EndComp
 Wire Wire Line
 	11000 5875 11100 5875
 Wire Wire Line
-	11000 6075 8000 6075
-Wire Wire Line
 	11300 5675 11300 4925
 $Comp
 L MX_Alps_Hybrids:MX-6.25U MX23
@@ -1810,11 +1808,35 @@ F 3 "" H 14850 4925 60  0001 C CNN
 	1    14875 4950
 	1    0    0    -1  
 $EndComp
-Text GLabel 12500 6075 0    50   Input ~ 0
+Text GLabel 10250 6075 0    50   Input ~ 0
 ROW4
 Wire Wire Line
-	13250 6075 12500 6075
+	13250 6075 11000 6075
 Connection ~ 13250 6075
 Connection ~ 11300 4925
-Connection ~ 8000 6075
+Connection ~ 11000 6075
+Wire Wire Line
+	11000 6075 10250 6075
+Text GLabel 3350 3850 2    50   Input ~ 0
+COL6
+Text GLabel 3350 3650 2    50   Input ~ 0
+COL5
+Text GLabel 3350 2350 2    50   Input ~ 0
+COL4
+Text GLabel 3350 2450 2    50   Input ~ 0
+COL3
+Text GLabel 3350 2550 2    50   Input ~ 0
+COL2
+Text GLabel 3350 2950 2    50   Input ~ 0
+COL1
+Text GLabel 3350 2850 2    50   Input ~ 0
+COL0
+Text GLabel 3350 3450 2    50   Input ~ 0
+ROW2
+Text GLabel 3350 3350 2    50   Input ~ 0
+ROW1
+Text GLabel 3350 3150 2    50   Input ~ 0
+ROW3
+Text GLabel 3350 3250 2    50   Input ~ 0
+ROW0
 $EndSCHEMATC

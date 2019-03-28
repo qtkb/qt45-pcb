@@ -1656,32 +1656,29 @@ Connection ~ 15050 3425
 $Comp
 L Device:D_Small D23
 U 1 1 5CA86F72
-P 10250 5975
-F 0 "D23" H 10250 6125 50  0000 R CNN
-F 1 "SOD-123" H 10650 6125 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10250 5975 50  0001 C CNN
-F 3 "~" V 10250 5975 50  0001 C CNN
-	1    10250 5975
+P 11000 5975
+F 0 "D23" H 11000 6125 50  0000 R CNN
+F 1 "SOD-123" H 11400 6125 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 11000 5975 50  0001 C CNN
+F 3 "~" V 11000 5975 50  0001 C CNN
+	1    11000 5975
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	10250 5875 10350 5875
+	11000 5875 11100 5875
 Wire Wire Line
-	10250 6075 8000 6075
-Wire Wire Line
-	10550 5675 10550 4925
+	11300 5675 11300 4925
 $Comp
 L MX_Alps_Hybrids:MX-6.25U MX23
 U 1 1 5CA8EADA
-P 10375 5700
-F 0 "MX23" H 10461 5917 60  0000 C CNN
-F 1 "MX-6.25U" H 10461 5843 20  0000 C CNN
-F 2 "MX_Alps_Hybrid:MXOnly-6.25U-ReversedStabilizers-NoLED" H 10350 5675 60  0001 C CNN
-F 3 "" H 10350 5675 60  0001 C CNN
-	1    10375 5700
+P 11125 5700
+F 0 "MX23" H 11211 5917 60  0000 C CNN
+F 1 "MX-6.25U" H 11211 5843 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-6.25U-ReversedStabilizers-NoLED" H 11100 5675 60  0001 C CNN
+F 3 "" H 11100 5675 60  0001 C CNN
+	1    11125 5700
 	1    0    0    -1  
 $EndComp
-Connection ~ 8000 6075
 $Comp
 L Device:D_Small D36
 U 1 1 5CA98248
@@ -1793,7 +1790,6 @@ Wire Wire Line
 	9500 5325 8750 5325
 Connection ~ 9500 5325
 Connection ~ 10250 5325
-Connection ~ 10550 4925
 Connection ~ 11000 5325
 Connection ~ 11750 5325
 Connection ~ 12500 5325
@@ -1812,9 +1808,33 @@ F 3 "" H 14850 4925 60  0001 C CNN
 	1    14875 4950
 	1    0    0    -1  
 $EndComp
-Text GLabel 12500 6075 0    50   Input ~ 0
+Text GLabel 10250 6075 0    50   Input ~ 0
 ROW4
 Wire Wire Line
-	13250 6075 12500 6075
+	13250 6075 11000 6075
 Connection ~ 13250 6075
+Connection ~ 11300 4925
+Connection ~ 11000 6075
+Wire Wire Line
+	11000 6075 10250 6075
+Text GLabel 3350 3850 2    50   Input ~ 0
+COL6
+Text GLabel 3350 3650 2    50   Input ~ 0
+COL5
+Text GLabel 3350 2350 2    50   Input ~ 0
+COL4
+Text GLabel 3350 2450 2    50   Input ~ 0
+COL3
+Text GLabel 3350 2550 2    50   Input ~ 0
+COL2
+Text GLabel 3350 2950 2    50   Input ~ 0
+COL1
+Text GLabel 3350 2850 2    50   Input ~ 0
+COL0
+Text GLabel 3350 3450 2    50   Input ~ 0
+ROW2
+Text GLabel 3350 3350 2    50   Input ~ 0
+ROW1
+Text GLabel 3350 3250 2    50   Input ~ 0
+ROW3
 $EndSCHEMATC
