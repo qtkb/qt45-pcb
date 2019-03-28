@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:qt45-cache
 EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1827,13 +1828,13 @@ Text GLabel 3350 2550 2    50   Input ~ 0
 COL1
 Text GLabel 3350 2450 2    50   Input ~ 0
 COL0
-Text GLabel 3350 3450 2    50   Input ~ 0
+Text GLabel 3350 3250 2    50   Input ~ 0
 ROW2
-Text GLabel 3350 3350 2    50   Input ~ 0
+Text GLabel 3350 2850 2    50   Input ~ 0
 ROW1
 Text GLabel 3350 3150 2    50   Input ~ 0
 ROW3
-Text GLabel 3350 3250 2    50   Input ~ 0
+Text GLabel 3350 2950 2    50   Input ~ 0
 ROW0
 Connection ~ 8000 6075
 Text GLabel 3350 4150 2    50   Input ~ 0
