@@ -382,7 +382,7 @@ D+
 Text GLabel 800  3050 0    50   Input ~ 0
 D-
 $Comp
-L random-keyboard-parts:Molex-0548190589 USB1
+L qt45-rescue:Molex-0548190589-random-keyboard-parts USB1
 U 1 1 5C9D7E35
 P 5300 1725
 F 0 "USB1" V 5837 1692 60  0000 C CNN
@@ -433,7 +433,7 @@ $EndComp
 Wire Wire Line
 	6300 1525 6600 1525
 $Comp
-L MX_Alps_Hybrids:MX-1U MX1
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX1
 U 1 1 5C9E3362
 P 5875 3450
 F 0 "MX1" H 5961 3667 60  0000 C CNN
@@ -457,7 +457,7 @@ $EndComp
 Wire Wire Line
 	5750 3625 5850 3625
 $Comp
-L MX_Alps_Hybrids:MX-1U MX4
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX4
 U 1 1 5C9F1A30
 P 6625 3450
 F 0 "MX4" H 6711 3667 60  0000 C CNN
@@ -494,7 +494,7 @@ $EndComp
 Wire Wire Line
 	5750 4375 5850 4375
 $Comp
-L MX_Alps_Hybrids:MX-1U MX5
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX5
 U 1 1 5C9F3E79
 P 6625 4200
 F 0 "MX5" H 6711 4417 60  0000 C CNN
@@ -563,7 +563,7 @@ $EndComp
 Wire Wire Line
 	5600 1925 5750 1925
 $Comp
-L MX_Alps_Hybrids:MX-1.25U MX2
+L qt45-rescue:MX-1.25U-MX_Alps_Hybrids MX2
 U 1 1 5C9B916B
 P 5875 4200
 F 0 "MX2" H 5961 4417 60  0000 C CNN
@@ -574,7 +574,7 @@ F 3 "" H 5850 4175 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U MX6
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX6
 U 1 1 5C9BC6F1
 P 7375 3450
 F 0 "MX6" H 7461 3667 60  0000 C CNN
@@ -602,7 +602,7 @@ Wire Wire Line
 Wire Wire Line
 	7550 3425 7550 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX10
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX10
 U 1 1 5C9BE4D7
 P 8125 3450
 F 0 "MX10" H 8211 3667 60  0000 C CNN
@@ -630,7 +630,7 @@ Wire Wire Line
 Wire Wire Line
 	8300 3425 8300 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX14
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX14
 U 1 1 5C9C001E
 P 8875 3450
 F 0 "MX14" H 8961 3667 60  0000 C CNN
@@ -658,7 +658,7 @@ Wire Wire Line
 Wire Wire Line
 	9050 3425 9050 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX17
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX17
 U 1 1 5C9C1BBC
 P 9625 3450
 F 0 "MX17" H 9711 3667 60  0000 C CNN
@@ -686,7 +686,7 @@ Wire Wire Line
 Wire Wire Line
 	9800 3425 9800 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX20
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX20
 U 1 1 5C9C3BA7
 P 10375 3450
 F 0 "MX20" H 10461 3667 60  0000 C CNN
@@ -714,7 +714,7 @@ Wire Wire Line
 Wire Wire Line
 	10550 3425 10550 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX24
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX24
 U 1 1 5C9C5CC1
 P 11125 3450
 F 0 "MX24" H 11211 3667 60  0000 C CNN
@@ -742,7 +742,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 3425 11300 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX27
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX27
 U 1 1 5C9C7E50
 P 11875 3450
 F 0 "MX27" H 11961 3667 60  0000 C CNN
@@ -770,7 +770,7 @@ Wire Wire Line
 Wire Wire Line
 	12050 3425 12050 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX30
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX30
 U 1 1 5C9CA35D
 P 12625 3450
 F 0 "MX30" H 12711 3667 60  0000 C CNN
@@ -798,7 +798,7 @@ Wire Wire Line
 Wire Wire Line
 	12800 3425 12800 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX33
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX33
 U 1 1 5C9CC78F
 P 13375 3450
 F 0 "MX33" H 13461 3667 60  0000 C CNN
@@ -826,7 +826,7 @@ Wire Wire Line
 Wire Wire Line
 	13250 3825 12500 3825
 $Comp
-L MX_Alps_Hybrids:MX-1U MX37
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX37
 U 1 1 5C9D15CD
 P 14125 3450
 F 0 "MX37" H 14211 3667 60  0000 C CNN
@@ -854,7 +854,7 @@ Wire Wire Line
 Wire Wire Line
 	14300 3425 14300 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX41
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX41
 U 1 1 5C9D401D
 P 14875 3450
 F 0 "MX41" H 14961 3667 60  0000 C CNN
@@ -882,7 +882,7 @@ Wire Wire Line
 Wire Wire Line
 	15050 3425 15050 2925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX43
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX43
 U 1 1 5C9D6C8C
 P 15625 3450
 F 0 "MX43" H 15711 3667 60  0000 C CNN
@@ -952,7 +952,7 @@ Wire Wire Line
 Wire Wire Line
 	6050 4925 6050 4175
 $Comp
-L MX_Alps_Hybrids:MX-1.75U MX3
+L qt45-rescue:MX-1.75U-MX_Alps_Hybrids MX3
 U 1 1 5C9E57C6
 P 5875 4950
 F 0 "MX3" H 5961 5167 60  0000 C CNN
@@ -980,7 +980,7 @@ Wire Wire Line
 Wire Wire Line
 	15800 4175 15800 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX45
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX45
 U 1 1 5C9EDC9E
 P 15625 4950
 F 0 "MX45" H 15711 5167 60  0000 C CNN
@@ -1008,7 +1008,7 @@ Wire Wire Line
 Wire Wire Line
 	15800 4925 15800 4175
 $Comp
-L MX_Alps_Hybrids:MX-1.75U MX44
+L qt45-rescue:MX-1.75U-MX_Alps_Hybrids MX44
 U 1 1 5C9F5826
 P 15625 4200
 F 0 "MX44" H 15711 4417 60  0000 C CNN
@@ -1020,7 +1020,7 @@ F 3 "" H 15600 4175 60  0001 C CNN
 $EndComp
 Connection ~ 15800 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX7
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX7
 U 1 1 5C9F740B
 P 7375 4200
 F 0 "MX7" H 7461 4417 60  0000 C CNN
@@ -1048,7 +1048,7 @@ Wire Wire Line
 Wire Wire Line
 	7550 4175 7550 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX11
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX11
 U 1 1 5C9FAD4C
 P 8125 4200
 F 0 "MX11" H 8211 4417 60  0000 C CNN
@@ -1074,7 +1074,7 @@ Wire Wire Line
 Wire Wire Line
 	8300 4175 8300 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX15
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX15
 U 1 1 5C9FE4FA
 P 8875 4200
 F 0 "MX15" H 8961 4417 60  0000 C CNN
@@ -1102,7 +1102,7 @@ Wire Wire Line
 Wire Wire Line
 	9050 4175 9050 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX18
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX18
 U 1 1 5CA01E5D
 P 9625 4200
 F 0 "MX18" H 9711 4417 60  0000 C CNN
@@ -1130,7 +1130,7 @@ Wire Wire Line
 Wire Wire Line
 	9800 4175 9800 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX21
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX21
 U 1 1 5CA0574C
 P 10375 4200
 F 0 "MX21" H 10461 4417 60  0000 C CNN
@@ -1158,7 +1158,7 @@ Wire Wire Line
 Wire Wire Line
 	10550 4175 10550 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX25
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX25
 U 1 1 5CA095A9
 P 11125 4200
 F 0 "MX25" H 11211 4417 60  0000 C CNN
@@ -1186,7 +1186,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 4175 11300 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX28
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX28
 U 1 1 5CA0D728
 P 11875 4200
 F 0 "MX28" H 11961 4417 60  0000 C CNN
@@ -1214,7 +1214,7 @@ Wire Wire Line
 Wire Wire Line
 	12050 4175 12050 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX31
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX31
 U 1 1 5CA11F75
 P 12625 4200
 F 0 "MX31" H 12711 4417 60  0000 C CNN
@@ -1242,7 +1242,7 @@ Wire Wire Line
 Wire Wire Line
 	12800 4175 12800 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX34
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX34
 U 1 1 5CA166A4
 P 13375 4200
 F 0 "MX34" H 13461 4417 60  0000 C CNN
@@ -1270,7 +1270,7 @@ Wire Wire Line
 Wire Wire Line
 	13550 4175 13550 3425
 $Comp
-L MX_Alps_Hybrids:MX-1U MX38
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX38
 U 1 1 5CA1B18A
 P 14125 4200
 F 0 "MX38" H 14211 4417 60  0000 C CNN
@@ -1299,7 +1299,7 @@ Wire Wire Line
 	14300 4175 14300 3425
 Connection ~ 14000 4575
 $Comp
-L MX_Alps_Hybrids:MX-1U MX8
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX8
 U 1 1 5CA251B8
 P 7375 4950
 F 0 "MX8" H 7461 5167 60  0000 C CNN
@@ -1327,7 +1327,7 @@ Wire Wire Line
 Wire Wire Line
 	5750 5325 7250 5325
 $Comp
-L MX_Alps_Hybrids:MX-1U MX9
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX9
 U 1 1 5CA2A17F
 P 7375 5700
 F 0 "MX9" H 7461 5917 60  0000 C CNN
@@ -1359,7 +1359,7 @@ ROW2
 Text GLabel 5300 6075 0    50   Input ~ 0
 ROW3
 $Comp
-L MX_Alps_Hybrids:MX-1U MX12
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX12
 U 1 1 5CA35694
 P 8125 4950
 F 0 "MX12" H 8211 5167 60  0000 C CNN
@@ -1404,7 +1404,7 @@ Wire Wire Line
 Wire Wire Line
 	8300 5675 8300 4925
 $Comp
-L MX_Alps_Hybrids:MX-1.25U MX13
+L qt45-rescue:MX-1.25U-MX_Alps_Hybrids MX13
 U 1 1 5CA4021B
 P 8125 5700
 F 0 "MX13" H 8211 5917 60  0000 C CNN
@@ -1415,7 +1415,7 @@ F 3 "" H 8100 5675 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U MX16
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX16
 U 1 1 5CA4189F
 P 8875 4950
 F 0 "MX16" H 8961 5167 60  0000 C CNN
@@ -1443,7 +1443,7 @@ Wire Wire Line
 Wire Wire Line
 	9050 4925 9050 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX19
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX19
 U 1 1 5CA4792D
 P 9625 4950
 F 0 "MX19" H 9711 5167 60  0000 C CNN
@@ -1469,7 +1469,7 @@ Wire Wire Line
 Wire Wire Line
 	9800 4925 9800 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX22
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX22
 U 1 1 5CA4DB14
 P 10375 4950
 F 0 "MX22" H 10461 5167 60  0000 C CNN
@@ -1497,7 +1497,7 @@ Wire Wire Line
 Wire Wire Line
 	10550 4925 10550 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX26
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX26
 U 1 1 5CA5404F
 P 11125 4950
 F 0 "MX26" H 11211 5167 60  0000 C CNN
@@ -1525,7 +1525,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 4925 11300 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX29
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX29
 U 1 1 5CA5AB30
 P 11875 4950
 F 0 "MX29" H 11961 5167 60  0000 C CNN
@@ -1553,7 +1553,7 @@ Wire Wire Line
 Wire Wire Line
 	12050 4925 12050 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX32
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX32
 U 1 1 5CA61676
 P 12625 4950
 F 0 "MX32" H 12711 5167 60  0000 C CNN
@@ -1581,7 +1581,7 @@ Wire Wire Line
 Wire Wire Line
 	12800 4925 12800 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX35
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX35
 U 1 1 5CA688E9
 P 13375 4950
 F 0 "MX35" H 13461 5167 60  0000 C CNN
@@ -1609,7 +1609,7 @@ Wire Wire Line
 Wire Wire Line
 	13550 4925 13550 4175
 $Comp
-L MX_Alps_Hybrids:MX-1U MX39
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX39
 U 1 1 5CA6FE30
 P 14125 4950
 F 0 "MX39" H 14211 5167 60  0000 C CNN
@@ -1670,7 +1670,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 5675 11300 4925
 $Comp
-L MX_Alps_Hybrids:MX-6.25U MX23
+L qt45-rescue:MX-6.25U-MX_Alps_Hybrids MX23
 U 1 1 5CA8EADA
 P 11125 5700
 F 0 "MX23" H 11211 5917 60  0000 C CNN
@@ -1696,7 +1696,7 @@ Wire Wire Line
 Wire Wire Line
 	13550 5675 13550 4925
 $Comp
-L MX_Alps_Hybrids:MX-1U MX40
+L qt45-rescue:MX-1U-MX_Alps_Hybrids MX40
 U 1 1 5CAA04DD
 P 14125 5700
 F 0 "MX40" H 14211 5917 60  0000 C CNN
@@ -1722,7 +1722,7 @@ Wire Wire Line
 Wire Wire Line
 	14000 6075 13250 6075
 $Comp
-L MX_Alps_Hybrids:MX-1.25U MX36
+L qt45-rescue:MX-1.25U-MX_Alps_Hybrids MX36
 U 1 1 5CAB0986
 P 13375 5700
 F 0 "MX36" H 13461 5917 60  0000 C CNN
@@ -1799,7 +1799,7 @@ Wire Wire Line
 	14300 5675 14300 4925
 Connection ~ 14300 4925
 $Comp
-L MX_Alps_Hybrids:MX-1.25U MX42
+L qt45-rescue:MX-1.25U-MX_Alps_Hybrids MX42
 U 1 1 5CB0FADC
 P 14875 4950
 F 0 "MX42" H 14961 5167 60  0000 C CNN
@@ -1828,7 +1828,7 @@ Text GLabel 3350 2550 2    50   Input ~ 0
 COL1
 Text GLabel 3350 2450 2    50   Input ~ 0
 COL0
-Text GLabel 3350 3250 2    50   Input ~ 0
+Text GLabel 3350 3450 2    50   Input ~ 0
 ROW2
 Text GLabel 3350 2850 2    50   Input ~ 0
 ROW1
