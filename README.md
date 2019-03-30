@@ -2,6 +2,10 @@
 
 N.B. This is a pre-release version that hasn't been tested at all!
 
+A single-layout 45-key PCB with a [compatible acrylic layered case](https://github.com/qtkb/qt45-case).
+
+![Supported layout](https://i.imgur.com/ULTgfah.png)
+
 
 ## BOM
 
