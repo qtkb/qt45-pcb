@@ -21,4 +21,5 @@ C103904     | Resistor    | 10K   | 0805     |      2
 C325772     | Resistor    | 22    | 0805     |      2
 C92584      | Switch      |       | SMD      |      1
 C44854      | MCU         | 32U4  | QFP-44   |      1
+C145778     | Connector   |       | SMD      |      1
 C255909     | Crystal     | 16MHz | TSX-3225 |      1
