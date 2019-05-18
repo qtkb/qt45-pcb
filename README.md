@@ -2,7 +2,7 @@
 
 A single-layout 45-key PCB with a [compatible acrylic layered case](https://github.com/qtkb/qt45-case).
 
-![Supported layout](https://i.imgur.com/ULTgfah.png)
+![qt45 prototype](https://i.imgur.com/cvEGG9C.jpg)
 
 
 ## BOM
